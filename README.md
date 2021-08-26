@@ -11,7 +11,7 @@ Frontend: React, Javascript, HTML, CSS, BootStrap, ReactStrap, Redux </br>
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on small to mid-size open source projects
 - 💬 Ask me about my 12 month journey at Lambda School!
-- 📫 How to reach me: [email]: davazquez728@gmail.com
+- 📫 How to reach me: [email]: da.vazquez728@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: Anything related to technology and electronics, I love to build PC's and tinker with gadgets. I'm also gamer nerd and my all-time favorite game is Rocket League 🚀
      I also enjoy Bowling, Karaoke, and spending time with my chug (chihuahua and pug mix) Hummus🐕 </br>
