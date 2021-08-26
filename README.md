@@ -15,4 +15,6 @@ Frontend: React, Javascript, HTML, CSS, BootStrap, ReactStrap, Redux </br>
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: Anything related to technology and electronics, I love to build PC's and tinker with gadgets. I'm also gamer nerd and my all-time favorite game is Rocket League 🚀
      I also enjoy Bowling, Karaoke, and spending time with my chug (chihuahua and pug mix) Hummus🐕
+ </br>    
+ ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=da-vazquez&show_icons=true&line_height=30)
 
