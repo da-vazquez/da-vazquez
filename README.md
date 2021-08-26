@@ -4,8 +4,8 @@ My name is Daniel! I'm a Full Stack Web Developer from Phoenix, AZ. I love to da
 
 ### Tech Stack🥞
 
--Frontend: React, Javascript, HTML, CSS, BootStrap, ReactStrap, Redux
---Backend: Node.js, Express, MySQL, PostgreSQL, Heroku, AWS
+Frontend: React, Javascript, HTML, CSS, BootStrap, ReactStrap, Redux </br>
+ Backend: Node.js, Express, MySQL, PostgreSQL, Heroku, AWS
 
 - 🔭 I’m currently working on Auth0 Authentication on a frontend React Web Application
 - 🌱 I’m currently learning AWS
