@@ -5,8 +5,8 @@ My name is Daniel! I'm a Full Stack Software Engineer residing in the United Sta
 ### Tech Stack🥞
 
 Frontend: React, NextJS, Javascript, Typescript, HTML, CSS, Streamlit, Bootstrap </br>
- Backend: Node.js, Express, MySQL, Python, PostgreSQL, Flask, MongoDB
- Nitty-gritty: Linux, Docker, Kubernetes, Observability, Site Reliability, Microsoft Azure, ELK stack, CI/CD automation, OpenAI
+ Backend: Node.js, Express, MySQL, Python, PostgreSQL, Flask, MongoDB</br>
+ Nitty-gritty: Linux, Docker, Kubernetes, Observability, Site Reliability, Microsoft Azure, ELK stack, CI/CD automation, OpenAI</br>
 
 - 🔭 I’m currently transforming the future of healthcare leveraging Artificial Intelligence
 - 🌱 I’m currently learning how to create IoT solutions (raspberry pi)
